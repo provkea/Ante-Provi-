@@ -1,0 +1,76 @@
+body{
+	background-image: url ("slike/4osuoy9bneo21.jpg");
+	background-color: lightblue;
+}
+
+h1 {
+    margin: 10px;
+    text-align: center;
+    line-height: 60px;
+    background-color: rgb(244, 232, 104);
+    color : black
+}
+h3{
+    line-height: 50px;
+    font-family: georgia, arial, times;
+    margin: 15px;
+    background-color: rgb(211, 232, 104);
+    color: black;
+font-size: medium;
+}
+p {
+    margin: 20px;
+    margin-top: 50px;
+    font-size: 20px;
+    line-height: 22px;
+    width: 560px;
+    padding: 28px;
+    font-family: georgia, arial, times;
+    font-style: normal;
+    background-color : rgb (244,232,104)
+}
+
+
+mark{
+    color: rgb(211, 232, 104);
+}
+
+
+h2 {
+	text-align: center;
+    line-height: 40px;
+    font-size: meidum;
+    font-family: calibri, sans-serif;
+    color: white;
+    margin: 20px;
+    background-color: black;
+    padding: 5px;
+}
+li {
+    font-size: medium;
+}
+span{
+    color: RGB(211, 232, 104);
+}
+
+.moji trenutno najslušaniji izvođači{
+    background-color: light green;
+	font-size: 50px;
+    padding: 20px;
+    margin:20px ;
+    width: 500px;
+}
+
+
+a{
+    margin: 20px;
+    padding: 2px;
+    line: height 25px; 
+    color: black;
+    background-color: rgb(224, 160, 160)
+    
+}
+img{
+    height: 200px;
+
+}
